@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Philosopher:wght@700&family=Raleway:ital,wght@1,500&display=swap');
+
+h1,
+h2,
+.ph {
+    font-family: 'Philosopher', sans-serif;
+}
+
+.b1 {
+    background: linear-gradient(93.04deg, #FFCDB2 26.04%, #EFB6B8 100%);
+    border-radius: 40px;
+}
+
+.b1:hover {
+    background: linear-gradient(93.04deg, #FFCDB2 26.04%, #EFB6B8 100%);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 40px;
+}
+
+.b2:hover {
+    background: #EFB6B8;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 40px;
+}
+
+.bgnd {
+    background: linear-gradient(93.04deg, #FFCDB2 26.04%, #EFB6B8 100%);
+}
+
+.prog {
+    background: #FFFFFF;
+    border: 2px solid #EFB6B8;
+    border-radius: 20px;
+}
+
+
+.grad{
+    box-shadow: 2px 4px 50px rgba(220, 162, 137, 0.3);
+}
